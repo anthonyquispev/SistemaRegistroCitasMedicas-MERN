@@ -8,40 +8,40 @@ Para el desarrollo del Sistema Web se empleará el stack MERN, el cual está com
 
 ## Capturas
 <p align="center">
-  <img src="https://github.com/anthonyquispev/SistemaCitasMedicas-MERN/blob/master/capturas/Captura_01.PNG" width="500px" heigh="350px">
+  <img src="https://github.com/anthonyquispev/SistemaCitasMedicas-MERN/blob/master/capturas/Captura_01.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/SistemaCitasMedicas-MERN/blob/master/capturas/Captura_02.PNG" width="500px" heigh="350px">
+  <img src="https://github.com/anthonyquispev/SistemaCitasMedicas-MERN/blob/master/capturas/Captura_02.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/SistemaCitasMedicas-MERN/blob/master/capturas/Captura_03.PNG" width="500px" heigh="350px">
+  <img src="https://github.com/anthonyquispev/SistemaCitasMedicas-MERN/blob/master/capturas/Captura_03.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/SistemaCitasMedicas-MERN/blob/master/capturas/Captura_04.PNG" width="500px" heigh="350px">
+  <img src="https://github.com/anthonyquispev/SistemaCitasMedicas-MERN/blob/master/capturas/Captura_04.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/SistemaCitasMedicas-MERN/blob/master/capturas/Captura_05.PNG" width="500px" heigh="350px">
+  <img src="https://github.com/anthonyquispev/SistemaCitasMedicas-MERN/blob/master/capturas/Captura_05.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/SistemaCitasMedicas-MERN/blob/master/capturas/Captura_06.PNG" width="500px" heigh="350px">
+  <img src="https://github.com/anthonyquispev/SistemaCitasMedicas-MERN/blob/master/capturas/Captura_06.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/SistemaCitasMedicas-MERN/blob/master/capturas/Captura_06_a.PNG" width="500px" heigh="350px">
+  <img src="https://github.com/anthonyquispev/SistemaCitasMedicas-MERN/blob/master/capturas/Captura_06_a.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/SistemaCitasMedicas-MERN/blob/master/capturas/Captura_07.PNG" width="500px" heigh="350px">
+  <img src="https://github.com/anthonyquispev/SistemaCitasMedicas-MERN/blob/master/capturas/Captura_07.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/SistemaCitasMedicas-MERN/blob/master/capturas/Captura_08.PNG" width="500px" heigh="350px">
+  <img src="https://github.com/anthonyquispev/SistemaCitasMedicas-MERN/blob/master/capturas/Captura_08.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/SistemaCitasMedicas-MERN/blob/master/capturas/Captura_09.PNG" width="500px" heigh="350px">
+  <img src="https://github.com/anthonyquispev/SistemaCitasMedicas-MERN/blob/master/capturas/Captura_09.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/SistemaCitasMedicas-MERN/blob/master/capturas/Captura_10.PNG" width="500px" heigh="350px">
+  <img src="https://github.com/anthonyquispev/SistemaCitasMedicas-MERN/blob/master/capturas/Captura_10.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/SistemaCitasMedicas-MERN/blob/master/capturas/Captura_11.PNG" width="500px" heigh="350px">
+  <img src="https://github.com/anthonyquispev/SistemaCitasMedicas-MERN/blob/master/capturas/Captura_11.PNG">
 </p>
 
 ## Profesor
