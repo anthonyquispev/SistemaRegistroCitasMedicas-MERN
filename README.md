@@ -4,7 +4,7 @@
 
 |Licencia|Lenguaje|Ciclo|Curso|
 |:--:|:--:|:--:|:--:|
-|[![Licencia](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)|[![Lenguaje](https://img.shields.io/badge/Language-JavaScript-yellow.svg)](https://developer.mozilla.org/es/docs/Web/JavaScript)|![Ciclo](https://img.shields.io/badge/VII-2021-green.svg)|![Desarrollo de Sistemas Web](https://img.shields.io/badge/Desarrollo_de_Sistemas_Web-blueviolet.svg)
+|[![Licencia](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)|[![Lenguaje](https://img.shields.io/badge/Language-JavaScript-yellow.svg)](https://developer.mozilla.org/es/docs/Web/JavaScript)|![Ciclo](https://img.shields.io/badge/VII-green.svg)|![Desarrollo de Sistemas Web](https://img.shields.io/badge/Desarrollo_de_Sistemas_Web-blueviolet.svg)
 
 </div>
 
